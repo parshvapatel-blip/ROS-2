@@ -1,0 +1,3 @@
+float64 temprature
+bool are_motors_ready
+string debig_message
