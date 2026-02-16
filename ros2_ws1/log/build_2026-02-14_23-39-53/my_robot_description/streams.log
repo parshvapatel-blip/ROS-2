@@ -1,0 +1,33 @@
+[0.016s] Invoking command in '/home/parshva/ros2_ws1/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parshva/ros2_ws1/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parshva/ros2_ws1/install/my_robot_description
+[0.053s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.332s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.463s] -- Configuring done (0.4s)
+[0.471s] -- Generating done (0.0s)
+[0.473s] -- Build files have been written to: /home/parshva/ros2_ws1/build/my_robot_description
+[0.478s] Invoked command in '/home/parshva/ros2_ws1/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parshva/ros2_ws1/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parshva/ros2_ws1/install/my_robot_description
+[0.480s] Invoking command in '/home/parshva/ros2_ws1/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parshva/ros2_ws1/build/my_robot_description -- -j22 -l22
+[0.538s] Invoked command in '/home/parshva/ros2_ws1/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parshva/ros2_ws1/build/my_robot_description -- -j22 -l22
+[0.552s] Invoking command in '/home/parshva/ros2_ws1/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parshva/ros2_ws1/build/my_robot_description
+[0.563s] -- Install configuration: ""
+[0.564s] -- Execute custom install script
+[0.564s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description//urdf/common_properties.urdf.xacro
+[0.564s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description//urdf/mobile_base.urdf.xacro
+[0.564s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[0.565s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[0.565s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+[0.565s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.565s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.565s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.565s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.565s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.566s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.566s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.566s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.566s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.566s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.566s] -- Symlinking: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/package.dsv
+[0.579s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.579s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.579s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.579s] -- Up-to-date symlink: /home/parshva/ros2_ws1/install/my_robot_description/share/my_robot_description/package.xml
+[0.581s] Invoked command in '/home/parshva/ros2_ws1/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parshva/ros2_ws1/build/my_robot_description

@@ -1,0 +1,7 @@
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/parshva/ros2_ws1/build/my_robot_bringup
+-- Install configuration: ""
+-- Up-to-date: /home/parshva/ros2_ws1/install/my_robot_bringup/share/my_robot_bringup/launch
+-- Up-to-date: /home/parshva/ros2_ws1/install/my_robot_bringup/share/my_robot_bringup/launch/my_robot_gazebo.launch.xml

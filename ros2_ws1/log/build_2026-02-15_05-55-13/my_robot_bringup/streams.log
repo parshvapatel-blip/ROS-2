@@ -1,0 +1,17 @@
+[0.009s] Invoking command in '/home/parshva/ros2_ws1/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parshva/ros2_ws1/build/my_robot_bringup -- -j22 -l22
+[0.026s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.214s] -- Configuring done (0.2s)
+[0.215s] -- Generating done (0.0s)
+[0.216s] -- Build files have been written to: /home/parshva/ros2_ws1/build/my_robot_bringup
+[0.237s] Invoked command in '/home/parshva/ros2_ws1/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parshva/ros2_ws1/build/my_robot_bringup -- -j22 -l22
+[0.237s] Invoking command in '/home/parshva/ros2_ws1/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parshva/ros2_ws1/build/my_robot_bringup
+[0.244s] -- Install configuration: ""
+[0.244s] -- Up-to-date: /home/parshva/ros2_ws1/install/my_robot_bringup/share/my_robot_bringup/launch
+[0.244s] -- Up-to-date: /home/parshva/ros2_ws1/install/my_robot_bringup/share/my_robot_bringup/launch/my_robot_gazebo.launch.xml
+[0.245s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.245s]   file INSTALL cannot find
+[0.245s]   "/home/parshva/ros2_ws1/src/my_robot_bringup/rviz": No such file or
+[0.245s]   directory.
+[0.245s] 
+[0.245s] [0m
+[0.246s] Invoked command in '/home/parshva/ros2_ws1/build/my_robot_bringup' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parshva/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parshva/ros2_ws1/build/my_robot_bringup
